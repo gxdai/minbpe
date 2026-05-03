@@ -144,7 +144,3 @@ I built the code in this repository in this [YouTube video](https://www.youtube.
 - write an even more optimized C or Rust version (think through)
 - rename GPT4Tokenizer to GPTTokenizer and support GPT-2/GPT-3/GPT-3.5 as well?
 - write a LlamaTokenizer similar to GPT4Tokenizer (i.e. attempt sentencepiece equivalent)
-
-## License
-
-MIT
